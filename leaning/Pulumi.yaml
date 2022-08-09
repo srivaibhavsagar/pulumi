@@ -1,0 +1,6 @@
+name: aws-learning
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: basic ec2 and s3 creation
